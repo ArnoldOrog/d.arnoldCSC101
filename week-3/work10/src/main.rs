@@ -10,7 +10,7 @@ fn main() {
     
     
     //Multiplication
-    let product:i32 = 4 * 30;
+    let product:u32 = 4 * 30;
     println!("The multiple of 4 and 30 = {}", product);
     
     

@@ -1,4 +1,4 @@
-use std::result;
+
 
 fn main() {
     let a = 2;  // bit presentation is 10

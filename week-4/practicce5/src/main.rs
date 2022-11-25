@@ -1,6 +1,6 @@
 fn main() {
 let fullname = "Pan    Atlantic University";
-println!();
+println!();//another way of doing \n
 println!("Name:     {}",fullname);
 println!();
 println!("before trim ");
